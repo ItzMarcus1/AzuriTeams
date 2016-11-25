@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AzuriTeams:jar">
+    <output-path>H:/Local Servers/Kit Testing Server/plugins</output-path>
+    <root id="archive" name="AzuriTeams.jar">
+      <element id="module-output" name="AzuriTeams" />
+    </root>
+  </artifact>
+</component>

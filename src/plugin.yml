@@ -1,0 +1,7 @@
+name: AzuriTeams
+main: me.itzmarcus.azuriteams.Core
+version: 1.0
+
+commands:
+  team:
+    description: Command
